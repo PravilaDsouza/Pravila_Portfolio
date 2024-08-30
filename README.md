@@ -1,5 +1,5 @@
-# Pravila_Portfolio
-Data Science/Analytics Portfolio
+# Pravila's Portfolio
+
 
 [PROJECT 1 : FACE MASK DETECTION USING CONVOLUTIONAL NEURAL NETWORK](https://github.com/PravilaDsouza/FaceMask_Detection)\n
 
